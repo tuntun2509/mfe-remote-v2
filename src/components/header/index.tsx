@@ -5,7 +5,7 @@ function Header() {
   return (
     <div className="header">
       <a href="#default" className="logo">
-        Header Component
+        Header Component 13132
       </a>
       <div className="header-right">
         <a className="active" href="#home">
